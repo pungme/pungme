@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on several projects
+  * iOS apps: https://apps.apple.com/de/developer/worathiti-manosroi/id964821519?l=en
+  * SkimAI: https://skim.page
+  * My music: https://open.spotify.com/artist/0RFkzKCxr4didd4EAkpFl5?si=wOLI059oS-moW_j8Yr_fMg 
+- 🌱 I’m currently learning CoreData & CloudKit 🥲
+- 📫 How to reach me: me@pung.me
 
 <!--
 **pungme/pungme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
